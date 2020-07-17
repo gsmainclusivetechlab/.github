@@ -49,7 +49,7 @@ you've finished.
 Include the message `Closes gsmainclusivetechlab/<project>#123` (replacing
 `123` with the issue number for the feature you are working on) inside your
 commit message so that Github links the issue and tracks progress correctly.
-You can do that same inside the pull request description, to ensure that your
+You can do the same inside the pull request description, to ensure that your
 work doesn't go un-noticed!
 
 Changes which are merged into the `develop` branch are continuously deployed to
